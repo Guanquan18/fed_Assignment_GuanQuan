@@ -12,6 +12,7 @@ namespace S10257825_App
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Hello World");
+            Console.WriteLine("hello");
         }
     }
 }
